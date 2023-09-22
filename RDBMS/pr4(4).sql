@@ -1,1 +1,1 @@
- select next_day('18-jun-19', 'tuesday') "nextday" from dual;
+select next_day('18-jun-19', 'tuesday') "nextday" from dual;
